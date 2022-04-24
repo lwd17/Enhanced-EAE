@@ -105,6 +105,5 @@ For GOP & CER evaluation, you may use Kaldi Toolkit to prepare your own toolkit.
 ## Notice
 Notice that all the models above should strictly follow our multi-step training method described in Methodology section in the paper.
 
-During our training process, we present two speakers' data in each folder, denoting Spk1 and Spk2. To be clearer, Spk1 refers to SSB0603 and Spk2 refers to SSB0057 in AISHELL-3 dataset.
 
 For more details, you can refer to our paper and project page.
